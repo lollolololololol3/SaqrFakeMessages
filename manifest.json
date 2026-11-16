@@ -1,0 +1,11 @@
+{
+  "name": "Saqr Fake Messages",
+  "description": "Local-only mock message previews in the open chat. Clearly marked and never sent.",
+  "authors": [
+    {
+      "name": "Saqr"
+    }
+  ],
+  "main": "index.js",
+  "hash": "e835b09526740968f333e645c66595d7c61baf30ab5e034711d8e80b88544ca3"
+}
